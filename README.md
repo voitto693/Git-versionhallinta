@@ -13,6 +13,7 @@ Git -kurssilla tullaan käsittelemään seuraavia asioita:
 - Haarat –branches -> luoda haara (create a branch)
 - Työnnä –Push
 - Pull Request
+- Merge Pull Request
 
 
 
